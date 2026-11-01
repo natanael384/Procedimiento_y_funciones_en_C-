@@ -13,7 +13,7 @@ Este proyecto solicita el nombre, apellido y contraseña del usuario, valida sus
 ---
 
 ### Procesamiento:
-#### Contraseña es de mayor o igual que 8 caracteres y no contiene nombre del usuario 
+#### Contraseña es de mayor o igual que 8 caracteres y no contiene el nombre del usuario 
 ---
 ### Salida
 #### Usuario: valor, Contraseña: valor.
