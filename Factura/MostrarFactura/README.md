@@ -12,7 +12,7 @@
 ---
 
 ### Procesamiento:
-#### (subtotal * itibs) - descuento
+#### Total = subtotal * itibs - descuento
 ---
 ### Salida
 #### Nombre de cliente y Total a pagar.
