@@ -5,7 +5,6 @@ Este proyecto solicita el nombre, apellido y contraseña del usuario, valida sus
 --
 ## Analisis:
 
----
 ### Entrada:
 - `Nombre` = valor,
 - `Apellido` = valor,
