@@ -5,7 +5,6 @@
 --
 ## Analisis:
 
----
 ### Entrada:
 - `Subtotal` = valor,
 - `Frecuente` = valor,
