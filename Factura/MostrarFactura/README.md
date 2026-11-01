@@ -23,7 +23,7 @@
 
  - .Net
 
- - Visual studio commiunity
+ - Visual studio community
 
  - Aplicación de consola
 
