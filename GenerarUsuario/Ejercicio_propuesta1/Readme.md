@@ -1,6 +1,5 @@
 # Proyecto: GenerarCuenta
 
- ### Descripción:
 ### Descripción:
 Este proyecto solicita el nombre, apellido y contraseña del usuario, valida sus datos y muestra la información en pantalla si son correctos o no.
 --
