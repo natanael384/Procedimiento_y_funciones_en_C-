@@ -15,7 +15,7 @@ Este proyecto solicita el nombre, apellido y contraseña del usuario, valida sus
 #### Contraseña es de mayor o igual que 8 caracteres y no contiene el nombre del usuario 
 ---
 ### Salida
-#### Usuario: valor, Contraseña: valor.
+#### Usuario: valor, Contraseña Valida: valor.
 ---
 ## Tenologia utilizadas:
 
